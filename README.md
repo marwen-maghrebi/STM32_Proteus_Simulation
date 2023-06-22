@@ -9,15 +9,19 @@ HAL libraries and integrates with the Proteus simulation software.
 
 ## Project Structure
 
-The project structure is organized as follows:
+The repository is organized as follows:
 
-- `src/`: Contains the source code files for the STM32 project.
-- `inc/`: Contains the header files for the STM32 project.
-- `proteus_simulation/`: Includes the Proteus simulation files and setup.
-- `docs/`: Documentation related to the project, such as datasheets, application notes, or project-specific information.
+- `Project1/`: Description of Project 1.
+- `Project2/`: Description of Project 2.
+- `Project3/`: Description of Project 3.
+- `Project4/`: Description of Project 1.
+- `Project5/`: Description of Project 2.
+- `Project6/`: Description of Project 3.
+- `Project7/`: Description of Project 3.
+
 
 ## Getting Started
 
-To get started with this project, follow these steps:
-
-1. Clone the repository to your local machine:
+To start the projects, I encourage you to check out the detailed instructions provided on my YouTube channel and my Hackster.io profile.
+[Youtube](https://www.youtube.com/@theembeddedthings) &&
+[hackster](https://www.hackster.io/theembeddedthings) 
