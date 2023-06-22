@@ -1,0 +1,5 @@
+../Src/main.c:75:5:main	24	static
+../Src/main.c:154:6:SystemClock_Config	72	static
+../Src/main.c:189:13:MX_SPI1_Init	8	static
+../Src/main.c:227:13:MX_GPIO_Init	32	static
+../Src/main.c:254:6:Error_Handler	4	static

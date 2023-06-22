@@ -1,0 +1,6 @@
+../Src/main.c:63:6:demoTFT	56	static
+../Src/main.c:168:5:main	8	static
+../Src/main.c:217:6:SystemClock_Config	72	static
+../Src/main.c:255:13:MX_SPI1_Init	8	static
+../Src/main.c:293:13:MX_GPIO_Init	40	static
+../Src/main.c:328:6:Error_Handler	4	static
