@@ -12,7 +12,7 @@ To start the projects, I encourage you to check out the detailed instructions pr
 [Youtube](https://www.youtube.com/@theembeddedthings) &&
 [hackster](https://www.hackster.io/theembeddedthings) 
 
-## Project Structure
+## Repository  Structure
 
 The repository is organized as follows:
 
