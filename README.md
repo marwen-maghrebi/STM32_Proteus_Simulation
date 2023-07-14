@@ -6,8 +6,13 @@ HAL libraries and integrates with the Proteus simulation software.
 [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.) &&
 [Proteus 8](https://www.labcenter.com/) 
 
+## Getting Started
 
-## Project Structure
+To start the projects, I encourage you to check out the detailed instructions provided on my YouTube channel and my Hackster.io profile.
+[Youtube](https://www.youtube.com/@theembeddedthings) &&
+[hackster](https://www.hackster.io/theembeddedthings) 
+
+## Repository  Structure
 
 The repository is organized as follows:
 
@@ -19,10 +24,12 @@ The repository is organized as follows:
 - `6-SPI Polling IT DMA MODE/`: This project focuses on the utilization of the SPI (Serial Peripheral Interface) module in various modes such as polling, interrupt-driven, and DMA (Direct Memory Access) mode.
 - `7-SPI TC72 Temperature Sensor/`: This project focuses on the integration of an SPI (Serial Peripheral Interface) module with the TC72 temperature sensor. The TC72 is a digital temperature sensor that communicates using the SPI protocol, providing accurate temperature measurements with high resolution.
 - `8-SPI_MATRIX_7SEG/`: This project focuses on utilizing the SPI (Serial Peripheral Interface) communication protocol to drive a matrix display or a 7-segment display
+- `9-STM32 ST7735R/`: This project likely involves using an STM32 microcontroller in combination with the ST7735R TFT display module.
+- `10-STM32 ILI9341 TFT/`: Similar to project 9, this project involves utilizing the STM32 microcontroller along with the ILI9341 TFT display module. 
+- `11-STM32 PCP3008/`: This project might involve integrating the STM32 microcontroller with the PCP3008 chip. The PCP3008 is an 8-channel, 10-bit analog-to-digital converter (ADC) that can be used to measure analog signals.
+- `12-Traffic Intersection Controller/`:  involves designing and implementing a system using an STM32 microcontroller to control the traffic flow at an intersection.
+- `13-STM32 Motors/`:  involves integrating STM32 microcontrollers with motor driver modules such as L289n and L293D. The microcontroller uses timers for precise motor control, ADC for sensor input, and USART for communication.
 
 
-## Getting Started
 
-To start the projects, I encourage you to check out the detailed instructions provided on my YouTube channel and my Hackster.io profile.
-[Youtube](https://www.youtube.com/@theembeddedthings) &&
-[hackster](https://www.hackster.io/theembeddedthings) 
+
