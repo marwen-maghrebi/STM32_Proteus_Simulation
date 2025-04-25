@@ -4,7 +4,6 @@
 ![Circuit Diagram](circuit.png)
 - STM32F103C6 MCU
 - LED, button, resistor components for testing
-- USB-STLink programmer (for real hardware)
 
 ## Software Requirements
 - STM32CubeMX v6.0+
