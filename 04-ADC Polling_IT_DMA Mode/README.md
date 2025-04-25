@@ -5,7 +5,6 @@
 - STM32F103C6 MCU
 - Potentiometer (for analog input testing)
 - LED indicators (for output verification)
-- USB-STLink programmer (for real hardware)
 
 ## Software Requirements
 - STM32CubeMX v6.0+
