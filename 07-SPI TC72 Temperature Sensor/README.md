@@ -55,7 +55,7 @@
   - Read temperature in loop  
   - Print result over UART  
 
-### Proteus (Optional)
+### Proteus 
 
 - Add STM32F103C6, TC72 sensor, SPI Debugger, Virtual Terminal  
 - Connect according to pin configuration  

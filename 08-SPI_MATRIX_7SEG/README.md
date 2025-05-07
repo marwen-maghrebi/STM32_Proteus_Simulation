@@ -46,7 +46,7 @@
          - max7219_Decode_Off(void);
       - Write  logic in main.c
 
-   ### In STM32CubeIDE:
+   ### In Proteus:
       - Add STM32F103C6 , MAX7219 ,  MATRIX 8×8 RED , 7SEG_MPX8_CC_BLUE , RES
       - Connect pins according to configuration
       - Load firmware and test display output
