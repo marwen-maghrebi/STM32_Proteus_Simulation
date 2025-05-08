@@ -2,7 +2,7 @@
 
 ## Hardware Requirements
 
-![ILI9341 Display Interface Circuit](circuit_ili9341.png)
+![ILI9341 Display Interface Circuit](circuit.png)
 
 - **MCU**: STM32F103C8
 - **Display**: ILI9341 TFT LCD (240x320)
