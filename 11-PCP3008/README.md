@@ -71,10 +71,19 @@ This project demonstrates how to interface the MCP3008 10-bit ADC with the STM32
 
 ## Troubleshooting
 
--Ensure SPI settings in CubeMX match MCP3008 requirements
--Confirm all Proteus wiring (especially Chip Select and power)
--LCD not displaying? Check pin order and 10k potentiometer contrast
--Check voltmeter readings and LDR resistance under light changes
+## Troubleshooting  
+- **No LCD display**:  
+  - Confirm pin order and 10k potentiometer adjustment  
+  - Check power and backlight connections  
+- **Incorrect ADC readings**:  
+  - Verify SPI settings in CubeMX (mode, clock speed)  
+  - Probe MCP3008 input with a voltmeter  
+- **LDR not responding**:  
+  - Measure resistance under light/dark (expected range: ___ to ___ Ω)  
+  - Check voltage divider output (e.g., 0–3.3V)  
+- **SPI communication failures**:  
+  - Recheck Proteus wiring (CS, ground)  
+  - Shield cables or reduce SPI speed if noise occurs 
 
 ## License
 
