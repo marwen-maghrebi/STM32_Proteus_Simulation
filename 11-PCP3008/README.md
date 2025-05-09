@@ -79,7 +79,7 @@ This project demonstrates how to interface the MCP3008 10-bit ADC with the STM32
   - Verify SPI settings in CubeMX (mode, clock speed)  
   - Probe MCP3008 input with a voltmeter  
 - **LDR not responding**:  
-  - Measure resistance under light/dark (expected range: ___ to ___ Ω)  
+  - Measure resistance under light/dark   
   - Check voltage divider output (e.g., 0–3.3V)  
 - **SPI communication failures**:  
   - Recheck Proteus wiring (CS, ground)  
