@@ -6,12 +6,6 @@ HAL libraries and integrates with the Proteus simulation software.
 [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.) &&
 [Proteus 8](https://www.labcenter.com/) 
 
-## Getting Started
-
-To start the projects, I encourage you to check out the detailed instructions provided on my YouTube channel and my Hackster.io profile.
-[Youtube](https://www.youtube.com/@theembeddedthings) &&
-[hackster](https://www.hackster.io/theembeddedthings) 
-
 ## Repository  Structure
 
 The repository is organized as follows:
