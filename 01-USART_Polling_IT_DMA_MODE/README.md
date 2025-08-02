@@ -7,7 +7,7 @@ This project demonstrates how to implement three USART communication modes—Pol
 
 ## 🛠️ Hardware Requirements
 
-![Circuit Diagram](circuit.png)  
+![Circuit Diagram](circuit.jpg)  
 - STM32F103C6 MCU (Blue Pill)
 - USB-TTL converter (CP2102 / FT232)
 - 3x Tactile buttons (connected to PB0, PB1, PB2)
